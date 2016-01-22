@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="link_coming">This button will launch %s!</string>
+</resources>
